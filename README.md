@@ -2,6 +2,10 @@
 
 A playful and animated weather application built with **React** and the **OpenWeatherMap API**. Users can enter any city to retrieve and view current weather conditions, including temperature, description, and icon representation.
 
+
+<img width="1536" height="1024" alt="Weather App images" src="https://github.com/user-attachments/assets/602d51bd-c514-487d-93ea-01995f3df172" />
+
+
 ---
 
 ## 🚀 Features
